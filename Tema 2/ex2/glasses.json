@@ -1,0 +1,19 @@
+{
+  "glass_id": 1,
+  "brand": "Oliver Peoples",
+  "graduation_left": "-1.75",
+  "graduation_right": "-2.25",
+  "frame_type": "acetate",
+  "frame_color": "navy blue",
+  "glass_color_left": "amber",
+  "glass_color_right": "amber",
+  "price": 162.30,
+  "provider_id": "ObjectId",
+  "provider_name": "VisionSource Ltd.",
+  "buying_clients": [
+    {
+      "client_id": "ObjectId",
+      "client_name": "Samantha Miller"
+    }
+  ]
+}

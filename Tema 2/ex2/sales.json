@@ -1,0 +1,13 @@
+{
+  "sale_id": 1,
+  "sold_glasses": [
+    {
+      "glass_id": "ObjectId",
+      "quantity": 2
+    }
+  ],
+  "total_amount": 250.75,
+  "client_id": "ObjectId",
+  "employee_id": "ObjectId",
+  "date_time": "ISODate(2025-03-12T14:30:00Z)"
+}

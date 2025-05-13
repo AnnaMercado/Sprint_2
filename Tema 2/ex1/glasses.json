@@ -1,0 +1,12 @@
+{
+  "glass_id": 1,
+  "brand": "Persol",
+  "graduation_left": "1.2",
+  "graduation_right": "2.5",
+  "frame_type": "titanium",
+  "frame_color": "silver",
+  "glass_color_left": "brown",
+  "glass_color_right": "blue",
+  "price": 189.99,
+  "provider_id": "ObjectId"
+}

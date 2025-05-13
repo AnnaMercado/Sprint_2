@@ -1,0 +1,18 @@
+{
+  "provider_id": 1,
+  "name": "ClearView Optics",
+  "addresses": [ 
+    {
+      "street": "Madison Avenue",
+      "number": "560",
+      "floor": "5th Floor",
+      "door": "Suite 502",
+      "city": "New York",
+      "postal_code": "10022",
+      "phone": "2125556398",
+      "fax": "2125556398",
+      "country": "USA"
+    }
+  ],
+  "nif": "45-9271034"
+}

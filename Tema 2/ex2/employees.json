@@ -1,0 +1,11 @@
+{
+  "employee_id": 1,
+  "name": "Rachel Carter",
+  "phone": "6465558741",
+  "email": "rachel.carter@visionempire.com",
+  "sales": [
+    {
+      "sale_id": "ObjectId"
+    }
+  ]
+}

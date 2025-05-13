@@ -1,0 +1,31 @@
+{
+  "client_id": 1,
+  "name": "Emily Johnson",
+  "address": {
+    "street": "Maple Avenue",
+    "number": "42",
+    "floor": "3",
+    "door": "B",
+    "city": "New York",
+    "postal_code": "10001",
+    "country": "USA"
+  },
+  "phone": "9175558392",
+  "email": "emily.johnson@example.com",
+  "register_date": "ISODate(2025-01-30)",
+  "referred_by_client_id": "ObjectId",
+  "last_shoppings": [
+    {
+      "sale_id": "ObjectId",
+      "glass_id": "ObjectId",
+      "brand": "Oakley",
+      "graduation_left": "1.8",
+      "graduation_right": "2.1",
+      "frame_type": "plastic",
+      "glass_color_left": "blue",
+      "glass_color_right": "blue",
+      "price": 135.75,
+      "date_time": "ISODate(2025-01-30T10:00:00Z)"
+    }
+  ]
+}

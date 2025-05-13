@@ -1,0 +1,17 @@
+{
+  "client_id": 1,
+  "name": "Samantha Miller",
+  "address": {
+    "street": "Elm Street",
+    "number": "128",
+    "floor": "4",
+    "door": "7B",
+    "city": "Los Angeles",
+    "postal_code": "90017",
+    "country": "USA"
+  },
+  "phone": "3235552987",
+  "email": "samantha.miller@example.com",
+  "register_date": "ISODate(2025-01-30)",
+  "referred_by_client_id": "ObjectId"
+}

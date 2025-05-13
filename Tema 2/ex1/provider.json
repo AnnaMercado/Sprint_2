@@ -1,0 +1,18 @@
+{
+  "provider_id": 1,
+  "name": "VisionSource Ltd.",
+  "addresses": [ 
+    {
+      "street": "Broadway Street",
+      "number": "310",
+      "floor": "2nd Floor",
+      "door": "Suite A",
+      "city": "Chicago",
+      "postal_code": "60607",
+      "phone": "3125557842",
+      "fax": "3125557842",
+      "country": "USA"
+    }
+  ],
+  "nif": "93-8217645"
+}

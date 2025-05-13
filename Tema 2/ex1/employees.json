@@ -1,0 +1,11 @@
+{
+  "employee_id": 1,
+  "name": "Michael Thompson",
+  "phone": "4157726390",
+  "email": "michael.thompson@glassworld.com",
+  "sales": [
+    {
+      "sale_id": "ObjectId"
+    }
+  ]
+}
